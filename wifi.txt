@@ -1,0 +1,8 @@
+
+
+Network : JNTUAwifi
+Password : jntua@wifi
+
+
+
+https://sites.google.com/view/jntua-python-may-2019
