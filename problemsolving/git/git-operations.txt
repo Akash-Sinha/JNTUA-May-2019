@@ -1,0 +1,34 @@
+
+
+1. Create a local and github repository with the same name
+
+2. Initiate Git in the local repository using
+	git init
+
+3. Add a remote handle from local to remote repository
+	git remote add remotename githubrepositoryURL
+
+
+4. Pull all data from the remote to local repository
+	git pull remotename master
+
+5. Make modifications in the local repository and then add files to staging area
+	git add file1 file2 
+
+6. Commit the changes in the local repository
+	git commit -m "commit message"
+
+7. Finally, push all data from local to remote repository
+	git push -u remotename master
+
+
+
+
+
+
+
+
+
+
+
+
