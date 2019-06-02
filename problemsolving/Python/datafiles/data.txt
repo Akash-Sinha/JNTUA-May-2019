@@ -1,0 +1,7 @@
+Course Objectives:
+To introduce programming through Visual programming tool - Scratch
+To teach problem solving through Flow charting tool - Raptor
+To elucidate problem solving through python programming language
+To introduce  function-oriented programming paradigm through python
+To train in development of  solutions using modular concepts
+To teach practical Pythonic solution patterns
